@@ -29,3 +29,15 @@ body{
 	width:100%;
 	display: block;
 }
+
+nav li{
+	list-style-type: none;
+	text-decoration: none;
+	float: left;
+	width: 25%;
+	}
+
+nav a{
+	text-decoration: none;
+	color: gray;
+}
