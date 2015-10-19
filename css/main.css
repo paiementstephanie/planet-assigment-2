@@ -39,8 +39,11 @@ header{
 }
 
 nav li{
-	list-style-type: none;
-	padding:0em;
+	list-style: none;
+}
+
+ol{
+	padding: 0em;
 }
 
 nav a{
