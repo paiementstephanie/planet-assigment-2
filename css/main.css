@@ -39,6 +39,7 @@ header{
 
 ol li{
 	list-style: none;
+	padding-left:2em;
 }
 
 ol{
@@ -92,7 +93,7 @@ dd{
 }
 
 h3{
-	padding-left: 2em;
+	padding-left: 1.7em;
 }
 
 
@@ -113,6 +114,25 @@ footer p{
 	nav{
 		text-align:center;
 	}
+
+.moon-h2{
+	padding-top: 0.5em;
+	padding-left:1.3em;
+	padding-right:1.3em;
+}
+
+.img-moon-1{
+	padding-right: 2em;
+}
+
+.img-moon-2{
+	padding-right: 2em;
+}
+
+li{
+	padding-left: 2em;
+}
+
 
 }
 
