@@ -37,7 +37,7 @@ header{
 	background-color: #ccc;
 }
 
-nav li{
+ol li{
 	list-style: none;
 }
 
@@ -45,7 +45,7 @@ ol{
 	padding: 0em;
 }
 
-nav a{
+ol a{
 	text-decoration: none;
 	color: #0680e5;
 }
@@ -68,8 +68,16 @@ nav a:hover{
 	font-weight: normal;
 }
 
+.foot-ex{
+	background-color: #ccc;
+	text-align: center;
+}
+
+
+
+
 @media only screen and (min-width:25em){
-	nav li{
+	ol li{
 		display:inline-block;
 	}
 
