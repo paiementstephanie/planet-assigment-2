@@ -72,7 +72,32 @@ nav a:hover{
 	background-color: #ccc;
 }
 
+.img-moon-1, .img-moon-2{
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-right:2em;
+}
 
+.moon-h2{
+	padding-top: 0.5em;
+}
+
+dd{
+	margin:0em;
+}
+
+h3{
+	padding-left: 2em;
+}
+
+
+dl{
+	padding-left:2em;
+}
+
+footer p{
+	padding-left:2em;
+}
 
 
 @media only screen and (min-width:25em){
