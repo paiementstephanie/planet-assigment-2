@@ -130,7 +130,7 @@ figcaption{
 
 .para{
 	background-color: #fff;
-	overflow:hidden;
+	padding: .5em;
 }
 
 
@@ -176,9 +176,8 @@ figcaption{
 	padding-top:1em;
 	padding-left:2em;
 	padding-right:1em;
-	padding-bottom: 1em;
+	padding-bottom:2em;
 }
-
 
 
 @media only screen and (min-width:38em){
@@ -206,6 +205,15 @@ figcaption{
 	padding-right:1em;
 }
 
+.img-moon-1{
+	padding-right: 2em;
+}
+
+.img-moon-2{
+	padding-right: 2em;
+}
+
+
 }
 
 
@@ -227,6 +235,43 @@ figcaption{
 
 .v-2{
 	padding-top:.3em;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print{
+
+nav{
+	display:none;
+}
+
+
+main a::after {
+	content: " (" attr(href) ")" ;
+	text-decoration: none;
+	color: gray;
+}
+
+.atl-text{
+	display:none;
+}
+
+.billboard{
+	display:none;
 }
 
 }
