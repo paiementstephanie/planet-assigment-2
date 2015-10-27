@@ -38,7 +38,7 @@ header{
 }
 
 ol li{
-	list-style: none;
+	list-style-type: none;
 	padding-left:2em;
 }
 
@@ -51,9 +51,9 @@ ol a{
 	color: #0680e5;
 }
 
-
 nav a{
 	display:block;
+	margin: 0em;
 }
 
 
@@ -252,23 +252,21 @@ figcaption{
 
 
 
-
-
-
-
-
-
-
 @media print{
 
-nav{
-	display:none;
+	nav{
+		display:none;
+	}
+
+	a::after {
+		content: " (" attr(href) ")";
+		text-decoration: none;
+		color: gray;
 }
 
-main a::after {
-	content: " (" attr(href) ")" ;
-	text-decoration: none;
-	color: gray;
+img{
+max-width: 50%;
+
 }
 
 
