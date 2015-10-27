@@ -98,7 +98,6 @@ h3{
 	padding-left: 1.7em;
 }
 
-
 dl{
 	padding-left:2em;
 }
@@ -129,6 +128,10 @@ figcaption{
 	padding-left: 1em;
 }
 
+.para{
+	background-color: white;
+	overflow:hidden;
+}
 
 
 
