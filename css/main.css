@@ -259,15 +259,11 @@ nav{
 	display:none;
 }
 
-
 main a::after {
 	content: " (" attr(href) ")" ;
 	text-decoration: none;
 	color: gray;
 }
 
-.billboard{
-	display:none;
-}
 
 }
