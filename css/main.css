@@ -131,9 +131,6 @@ figure{
 	background-color: #e2e2e2;
 }
 
-.img-1{
-	padding-top:2em;
-}
 
 /*css for all footers*/
 
@@ -222,6 +219,7 @@ footer li a{
 
 
 @media only screen and (min-width:60em){
+
 
 
 
