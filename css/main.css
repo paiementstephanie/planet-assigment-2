@@ -39,7 +39,6 @@ header{
 
 ol li{
 	list-style-type: none;
-	padding-left:2em;
 }
 
 ol{
@@ -118,6 +117,11 @@ footer li{
 	padding-top:1em;
 }
 
+footer ol li{
+	padding-left:2em;
+}
+
+
 figure{
 	margin:0em;
 }
@@ -147,7 +151,7 @@ figcaption{
 }
 
 .venus-h1{
-	padding-left: 1em;
+	padding-top: 1em;
 }
 
 .para{
