@@ -29,8 +29,11 @@ body{
 	display: block;
 }
 
-h1,{
+h1{
 	text-align: center;
+	margin: 0em;
+	padding-top: 1em;
+	padding-bottom:0em;
 }
 
 h3{
@@ -158,6 +161,7 @@ figcaption{
 .venus-h1{
 	padding-top: 1em;
 	text-align:center;
+	margin:0em;
 }
 
 .para{
