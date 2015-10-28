@@ -83,6 +83,7 @@ nav a:hover{
 .img-moon-1, .img-moon-2{
 	padding-left: 2em;
 	padding-top: 2em;
+	padding-right:2em;
 }
 
 .moon-h2{
@@ -120,6 +121,7 @@ figcaption{
 	padding-top:1em;
 	padding-left:2em;
 	padding-right:1em;
+	padding-bottom:1em;
 }
 
 .v-h2{
@@ -151,38 +153,30 @@ figcaption{
 		text-align:center;
 	}
 
-.moon-h2{
-	padding-top: 0.5em;
-	padding-left: 1.3em;
-}
+	.moon-h2{
+		padding-top: 0.5em;
+		padding-left: 1.3em;
+	}
 
 	.moon-p{
 		padding-left: 2em;
 		padding-right: 2em;
 	}
 
-.img-moon-1{
-	padding-right: 2em;
-}
+	li{
+		padding-left: 2em;
+	}
 
-.img-moon-2{
-	padding-right: 2em;
-}
+	figure{
+		margin:0em;
+	}
 
-li{
-	padding-left: 2em;
-}
-
-
-figure{
-	margin:0em;
-}
-
-figcaption{
-	padding-top:1em;
-	padding-left:2em;
-	padding-right:1em;
-	padding-bottom:2em;
+	figcaption{
+		padding-top:1em;
+		padding-left:2em;
+		padding-right:1em;
+		padding-bottom:2em;
+	}
 }
 
 
@@ -200,25 +194,23 @@ figcaption{
 		padding-right: 2em;
 	}
 
+	figure{
+		margin:0em;
+	}
 
-figure{
-	margin:0em;
-}
+	figcaption{
+		padding-top:1em;
+		padding-left:2em;
+		padding-right:1em;
+	}
 
-figcaption{
-	padding-top:1em;
-	padding-left:2em;
-	padding-right:1em;
-}
+	.img-moon-1{
+		padding-right: 2em;
+	}
 
-.img-moon-1{
-	padding-right: 2em;
-}
-
-.img-moon-2{
-	padding-right: 2em;
-}
-
+	.img-moon-2{
+		padding-right: 2em;
+	}
 
 }
 
@@ -233,15 +225,15 @@ figcaption{
 		padding-right: 0em;
 	}
 
-.img-1{
-	padding-right:2em;
-	padding-bottom:2em;
-	padding-top:2em;
-}
+	.img-1{
+		padding-right:2em;
+		padding-bottom:2em;
+		padding-top:2em;
+	}
 
-.v-2{
-	padding-top:.3em;
-}
+	.v-2{
+		padding-top:.3em;
+	}
 
 }
 
@@ -262,12 +254,10 @@ figcaption{
 		content: " (" attr(href) ")";
 		text-decoration: none;
 		color: gray;
-}
+	}
 
-img{
-max-width: 50%;
-
-}
-
+	img{
+	max-width: 50%;
+	}
 
 }
