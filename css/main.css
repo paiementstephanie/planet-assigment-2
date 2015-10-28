@@ -88,6 +88,9 @@ nav a:hover{
 	font-weight: normal;
 }
 
+
+/*css for moon page*/
+
 .img-moon-1, .img-moon-2{
 	padding-left: 2em;
 	padding-top: 2em;
@@ -131,7 +134,11 @@ figcaption{
 }
 
 .venus-fact{
-	margin-top:2em;
+	background-color: #eeeeee;
+}
+
+.venus-fact img{
+	padding-top:2em;
 }
 
 .v-h2{
@@ -145,6 +152,8 @@ figcaption{
 	margin:0em;
 	padding:1em;
 }
+
+/*css for venus page*/
 
 .p-2{
 	padding-left:2em;
@@ -179,6 +188,8 @@ figcaption{
 	background-color: #eeeeee;
 	padding:.5em;
 }
+
+/*css for all footers*/
 
 footer p{
 	padding-left:2em;
@@ -257,6 +268,11 @@ footer ol{
 
 	.img-moon-2{
 		padding-right: 2em;
+	}
+
+	.img-1{
+		padding-bottom:2em;
+
 	}
 
 footer ol{
