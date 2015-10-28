@@ -141,8 +141,22 @@ figcaption{
 	padding: .5em;
 }
 
+.orbit{
+	background-color: #e2e2e2;
+}
 
+.main{
+	background-color: #eeeeee;
+}
 
+.img-1{
+	padding-top:1em;
+}
+
+.gray-space{
+	background-color: #eeeeee;
+	padding:.5em;
+}
 
 @media only screen and (min-width:25em){
 	ol li{
@@ -171,12 +185,6 @@ figcaption{
 		margin:0em;
 	}
 
-	figcaption{
-		padding-top:1em;
-		padding-left:2em;
-		padding-right:1em;
-		padding-bottom:2em;
-	}
 }
 
 
