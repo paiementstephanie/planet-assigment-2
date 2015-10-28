@@ -55,6 +55,9 @@ nav a{
 	margin: 0em;
 }
 
+nav ol{
+	margin:0em;
+}
 
 nav a:hover{
 	background-color: #1579db;
