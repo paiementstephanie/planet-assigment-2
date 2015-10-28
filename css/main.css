@@ -128,6 +128,7 @@ dl{
 footer p{
 	padding-left:2em;
 	padding-top:1em;
+	margin:0em;
 }
 
 footer ol li{
@@ -135,6 +136,11 @@ footer ol li{
 	padding:0em;
 	margin:0em;
 }
+
+footer ol{
+	padding-left:2em;
+}
+
 
 figure{
 	margin:0em;
@@ -255,6 +261,10 @@ figcaption{
 	.img-moon-2{
 		padding-right: 2em;
 	}
+
+footer ol{
+	padding-top: 1em;
+}
 
 }
 
