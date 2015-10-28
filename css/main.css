@@ -181,7 +181,7 @@ figcaption{
 }
 
 .img-1{
-	padding-top:1em;
+	padding-top:2em;
 }
 
 .gray-space{
@@ -272,12 +272,11 @@ footer ol{
 
 	.img-1{
 		padding-bottom:2em;
-
 	}
 
-footer ol{
-	padding-top: 1em;
-}
+	footer ol{
+		padding-top: 1em;
+	}
 
 }
 
