@@ -94,14 +94,16 @@ nav a:hover{
 	padding-right:2em;
 }
 
-.moon-h2{
+.moon-h3{
 	padding-top: 1em;
-	padding-left:1.3em;
+	padding-left: 1.6em;
+	text-align:left;
 }
 
 .moon-p{
 	padding-left: 2em;
 	padding-right: 2em;
+	margin:0em;
 }
 
 dd{
@@ -204,11 +206,6 @@ footer ol{
 		text-align:center;
 	}
 
-	.moon-h2{
-		padding-top: 0.5em;
-		padding-left: 1.3em;
-	}
-
 	.moon-p{
 		padding-left: 2em;
 		padding-right: 2em;
@@ -230,7 +227,7 @@ footer ol{
 		text-align: left;
 	}
 
-	.moon-h2{
+	.moon-h3{
 		padding-left:1.3em;
 	}
 
@@ -287,6 +284,11 @@ footer ol{
 	.v-h2{
 		padding-top:1.3em;
 	}
+
+	.img-moon-1, .img-moon-2{
+		padding-bottom:1em;
+	}
+
 
 }
 
