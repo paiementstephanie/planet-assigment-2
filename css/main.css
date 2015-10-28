@@ -49,15 +49,12 @@ nav ol li{
 	padding:0em;
 }
 
-ol a{
-	text-decoration: none;
-	color: #0680e5;
-}
-
 nav a{
 	display:block;
 	margin: 0em;
 	padding:1em;
+	text-decoration: none;
+	color: #0680e5;
 }
 
 nav ol{
@@ -68,11 +65,6 @@ nav ol{
 nav a:hover{
 	background-color: #1579db;
 	color: white;
-}
-
-.expl-nav{
-	padding-right:1.3em;
-	padding-left:1.3em;
 }
 
 .headline{
@@ -176,17 +168,8 @@ figcaption{
 	background-color: #e2e2e2;
 }
 
-.main{
-	background-color: #eeeeee;
-}
-
 .img-1{
 	padding-top:2em;
-}
-
-.gray-space{
-	background-color: #eeeeee;
-	padding:.5em;
 }
 
 /*css for all footers*/
@@ -282,9 +265,10 @@ footer ol{
 
 
 @media only screen and (min-width:60em){
+
 	.moon-h3{
-	padding-left:0em;
-	padding-top: 1.3em;
+		padding-left:0em;
+		padding-top: 1.3em;
 	}
 
 	.moon-p{
