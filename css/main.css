@@ -47,12 +47,7 @@ header{
 
 nav ol li{
 	list-style-type: none;
-	padding-left:.5em;
-	padding-top:1em;
-}
-
-ol{
-	padding: 0em;
+	padding:0em;
 }
 
 ol a{
@@ -63,17 +58,18 @@ ol a{
 nav a{
 	display:block;
 	margin: 0em;
+	padding:1em;
 }
 
 nav ol{
-	margin-bottom:1em;
+	padding: 0em;
+	margin-bottom:0em;
 }
 
 
 nav a:hover{
 	background-color: #1579db;
 	color: white;
-	padding:.3em;
 }
 
 
@@ -135,9 +131,9 @@ footer p{
 }
 
 footer ol li{
-	padding-left:2em;
-	padding-top:1em;
 	list-style-type:none;
+	padding:0em;
+	margin:0em;
 }
 
 figure{
@@ -162,7 +158,6 @@ figcaption{
 	padding:1em;
 }
 
-
 .p-2{
 	padding-left:2em;
 	padding-right:2em;
@@ -170,6 +165,7 @@ figcaption{
 
 .venus-h1{
 	padding-top: 1em;
+	padding-bottom: 1em;
 	text-align:center;
 	margin:0em;
 }
@@ -195,6 +191,8 @@ figcaption{
 	background-color: #eeeeee;
 	padding:.5em;
 }
+
+
 
 @media only screen and (min-width:25em){
 	ol li{
@@ -262,8 +260,8 @@ figcaption{
 
 
 @media only screen and (min-width:60em){
-		.moon-h2{
-		padding-left:0em;
+	.moon-h2{
+	padding-left:0em;
 	}
 
 	.moon-p{
