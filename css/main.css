@@ -98,11 +98,11 @@ nav a:hover{
 
 dd{
 	margin:0em;
-	padding-bottom: 1em;
 }
 
 h3{
-	padding-left: 1.7em;
+	padding-left: 1.3em;
+	padding-top:1em;
 }
 
 dl{
@@ -111,6 +111,11 @@ dl{
 
 footer p{
 	padding-left:2em;
+	padding-top:1em;
+}
+
+footer li{
+	padding-top:1em;
 }
 
 figure{
@@ -125,7 +130,7 @@ figcaption{
 }
 
 .v-h2{
-	padding-left:1.3em;
+	padding-left:1.2em;
 }
 
 .p-2{
