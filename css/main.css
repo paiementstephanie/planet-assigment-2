@@ -28,12 +28,6 @@ body{
 	display: block;
 }
 
-h1{
-	text-align: center;
-	margin: 0em;
-	padding-top: 1em;
-	padding-bottom:0em;
-}
 
 
 header{
@@ -102,10 +96,6 @@ dd{
 	margin:0em;
 }
 
-h3{
-	padding-left: 1.3em;
-	padding-top:1em;
-}
 
 dl{
 	padding-left:2em;
@@ -120,17 +110,6 @@ figure{
 }
 
 
-.v-h2{
-	padding-left:1.2em;
-	padding-top:.5em;
-	padding-bottom:.5em;
-	margin:0em;
-}
-
-.sub-h2{
-	margin:0em;
-	padding:1em;
-}
 
 /*css for venus page*/
 
@@ -140,10 +119,7 @@ figure{
 }
 
 .venus-h1{
-	padding-top: 1em;
-	padding-bottom: 1em;
 	text-align:center;
-	margin:0em;
 }
 
 .para{
@@ -242,43 +218,11 @@ footer li a{
 		padding-bottom:2em;
 	}
 
-	footer ol{
-		padding-top: 1em;
-	}
-
 }
 
 
 @media only screen and (min-width:60em){
 
-	.moon-h3{
-		padding-left:0em;
-		padding-top: 1.3em;
-	}
-
-	.moon-p{
-		padding-left: 0em;
-		padding-right: 0em;
-		padding-bottom:0em;
-	}
-
-	.img-1{
-		padding-right:2em;
-		padding-bottom:2em;
-		padding-top:2em;
-	}
-
-	.v-2{
-		padding-top:.3em;
-	}
-
-	.v-h2{
-		padding-top:1.3em;
-	}
-
-	.img-moon-1, .img-moon-2{
-		padding-bottom:1em;
-	}
 
 
 }
