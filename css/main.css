@@ -35,10 +35,6 @@ h1{
 	padding-bottom:0em;
 }
 
-h3{
-	text-align:center;
-	margin:0em;
-}
 
 header{
 	background-color: #ccc;
@@ -165,21 +161,19 @@ figure{
 
 /*css for all footers*/
 
-footer p{
-	padding-left:2em;
-	padding-top:1em;
-	margin:0em;
-}
 
 footer ol li{
-	list-style-type:none;
 	padding:0em;
 	margin:0em;
 }
 
-footer ol{
-	padding-left:2em;
+footer li a{
+	list-style-type:none;
+	text-decoration: none;
+	color:#0680e5;
+	padding:0em;
 }
+
 
 .foot-ex{
 	background-color: #ccc;
