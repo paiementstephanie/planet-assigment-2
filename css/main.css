@@ -35,7 +35,6 @@ header{
 
 nav ol li{
 	list-style-type: none;
-	padding:0em;
 }
 
 nav a{
@@ -45,10 +44,6 @@ nav a{
 	color: #0680e5;
 }
 
-nav ol{
-	padding: 0em;
-	margin-bottom:0em;
-}
 
 nav a:hover{
 	background-color: #1579db;
