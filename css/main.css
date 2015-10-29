@@ -23,12 +23,6 @@ body{
 	margin: 0em;
 }
 
-.img-flex{
-	width:100%;
-	display: block;
-}
-
-
 header{
 	background-color: #ccc;
 }
@@ -69,43 +63,14 @@ nav a:hover{
 
 /*css for moon page*/
 
-.img-moon-1, .img-moon-2{
-	padding-left: 2em;
-	padding-top: 2em;
-	padding-right:2em;
-}
-
-.moon-h3{
-	padding-top: 1em;
-	padding-left: 1.6em;
-	text-align:left;
-}
-
-.moon-p{
-	padding-left: 2em;
-	padding-right: 2em;
-	padding-bottom: 2em;
-	margin:0em;
-}
-
-
-
-figure{
-	margin:0em;
-}
 
 .venus-fact{
 	background-color: #eeeeee;
 }
 
 
-
 /*css for venus page*/
 
-.p-2{
-	padding-left:2em;
-	padding-right:2em;
-}
 
 .venus-h1{
 	text-align:center;
@@ -155,26 +120,18 @@ footer li a{
 		text-align:center;
 	}
 
-
-
-
 }
 
 
 @media only screen and (min-width:38em){
-	h1,nav{
+	nav{
 		text-align: left;
 	}
-
-
-
 
 }
 
 
 @media only screen and (min-width:60em){
-
-
 
 
 }
