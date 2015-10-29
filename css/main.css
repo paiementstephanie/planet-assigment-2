@@ -29,7 +29,6 @@ body{
 }
 
 
-
 header{
 	background-color: #ccc;
 }
@@ -168,9 +167,6 @@ footer li a{
 		padding-right: 2em;
 	}
 
-	li{
-		padding-left: 2em;
-	}
 
 	figure{
 		margin:0em;
@@ -201,9 +197,6 @@ footer li a{
 		padding-right: 2em;
 	}
 
-	.img-1{
-		padding-bottom:2em;
-	}
 
 }
 
