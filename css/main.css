@@ -33,6 +33,7 @@ nav ol li{
 
 nav a{
 	display:block;
+	padding:1em;
 	text-decoration: none;
 	color: #0680e5;
 }
