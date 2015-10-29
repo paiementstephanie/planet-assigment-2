@@ -135,12 +135,15 @@ figure{
 
 
 footer ol li{
+	list-style-type:none;
+	display:inline-block;
+}
+
+footer ol{
 	padding:0em;
-	margin:0em;
 }
 
 footer li a{
-	list-style-type:none;
 	text-decoration: none;
 	color:#0680e5;
 	padding:0em;
@@ -167,10 +170,6 @@ footer li a{
 		padding-right: 2em;
 	}
 
-
-	figure{
-		margin:0em;
-	}
 
 }
 
