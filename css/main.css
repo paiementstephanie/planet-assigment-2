@@ -1,7 +1,13 @@
 
+html {
+ 	font-family: sans-serif;
+}
+
 header{
 	background-color: #ccc;
 }
+
+
 
 nav ol{
 	padding:0em;
@@ -44,6 +50,13 @@ nav a:hover{
 	background-color: #eeeeee;
 }
 
+.probes {
+	background-color: #e2e2e2;
+}
+
+.discovery {
+	background-color: #efefef;
+}
 
 /*css for venus page*/
 
