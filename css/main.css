@@ -27,6 +27,14 @@ nav a:hover{
 	color: white;
 }
 
+
+footer a{
+	list-style-type: none;
+	color:#0680e5;
+	text-decoration: none;
+}
+
+
 .headline{
 	background-color: #e2e2e2;
 	text-align: center;
